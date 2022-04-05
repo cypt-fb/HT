@@ -8,6 +8,8 @@ All questions have been completed as follows:
 The code in each file is well documented and should provide insight into the approach taken.
 
 ## Installation
+I used python 3.8
+
     $ pip install requirements.txt
 
 ## Question 3
@@ -17,5 +19,3 @@ To run the scraper:
     $ scrapy crawl bearspace
 
 The scraper will save the scraped data as a csv and picked DataFrame in the question_3 directory.
-
-I have fully tested each line of code locally and as a result opted not to write automated tests.
