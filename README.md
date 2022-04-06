@@ -10,7 +10,7 @@ The code in each file is well documented and should provide insight into the app
 ## Installation
 I used python 3.8
 
-    $ pip install requirements.txt
+    $ pip install -r requirements.txt
 
 ## Question 3
 To run the scraper:
