@@ -18,4 +18,4 @@ To run the scraper:
     $ cd question_3    
     $ scrapy crawl bearspace
 
-The scraper will save the scraped data as a csv and pickled DataFrame in the question_s/question_3 directory.
+The scraper will save the scraped data as a csv and pickled DataFrame in the question_3/question_3 directory.
